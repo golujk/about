@@ -46,7 +46,7 @@ body {
 .card{
     width:92%;
     height:520px;
-    background-color:#fefcf6;
+    background-color:#fff;
     position:absolute ;
     left:50%;
     transform:translate(-50%, -50%);
@@ -94,18 +94,18 @@ body {
     position:absolute ;
     font-size:20px;
     font-family: 'Montserrat' ;
-    top:200px;
+    top:198px;
     font-weight:bolder ;
     left:50%;
     transform:translate(-50%, -50%);
 }
 .user-profession{
     position:absolute ;
-    font-size:12.5px;
+    font-size:12px;
     font-family: 'Montserrat' ;
     color:#616C6F;
-    top:230px;
-    line-height:17px;
+    top:232px;
+    line-height:16px;
     left:50%;
     word-spacing:3px;
     text-align:center ;
@@ -117,7 +117,7 @@ body {
     
     
     position:absolute ;
-    font-size:9px;
+    font-size:8px;
     font-family: 'Montserrat' ;
     top:290px;
     line-height:17.5px;
